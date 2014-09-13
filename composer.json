@@ -1,0 +1,7 @@
+{
+    "name": "ebay/merchant-feed-service-client",
+    "version": "1.0.0",
+    "require": {
+        "guzzlehttp/guzzle": "~4.0"
+    }
+}
